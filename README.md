@@ -4,7 +4,7 @@
 
 Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini:
 
-## Persyaratan
+### Persyaratan
 
 Sebelum memulai, ada beberapa persyaratn yang harus dipenuhi [Cek Persyaratan](https://laravel.com/docs/11.x/deployment)
 
